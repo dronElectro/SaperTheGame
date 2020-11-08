@@ -1,0 +1,10 @@
+C:\Users\Andrey\source\repos\SaperTheGame\SaperTheGame\obj\Debug\SaperTheGame.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\SaperTheGame\SaperTheGame\obj\Debug\SaperTheGame.MainWindow.resources
+C:\Users\Andrey\source\repos\SaperTheGame\SaperTheGame\obj\Debug\SaperTheGame.Properties.Resources.resources
+C:\Users\Andrey\source\repos\SaperTheGame\SaperTheGame\obj\Debug\SaperTheGame.csproj.GenerateResource.cache
+C:\Users\Andrey\source\repos\SaperTheGame\SaperTheGame\obj\Debug\SaperTheGame.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\SaperTheGame\SaperTheGame\bin\Debug\SaperTheGame.exe.config
+C:\Users\Andrey\source\repos\SaperTheGame\SaperTheGame\bin\Debug\SaperTheGame.exe
+C:\Users\Andrey\source\repos\SaperTheGame\SaperTheGame\bin\Debug\SaperTheGame.pdb
+C:\Users\Andrey\source\repos\SaperTheGame\SaperTheGame\obj\Debug\SaperTheGame.exe
+C:\Users\Andrey\source\repos\SaperTheGame\SaperTheGame\obj\Debug\SaperTheGame.pdb
